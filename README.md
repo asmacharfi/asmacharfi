@@ -20,22 +20,5 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-# 📊 GitHub Stats:
-
-<div align="center">
-  <!-- Carte principale incluant les commits PRIVES -->
-  <img src="https://github-readme-stats.vercel.app/api?username=asmacharfi&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_rank=false" alt="Asma's GitHub Stats" />
-  <br/>
-  <!-- Carte des langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmacharfi&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=asmacharfi&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>
-
 
 
