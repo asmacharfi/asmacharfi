@@ -1,9 +1,9 @@
 ### Hi, I'm Asma! 👩‍💻
 
-💻 Freelance Software Developer specializing in Next.js, React, and Tailwind CSS.
-🎓 Master of Computers and Information Technology graduate from Politehnica Bucharest.
-🤖 Experienced in integrating AI features and utilizing Python, Scikit-learn, and Pandas for data analysis.
-🌍 Multilingual professional (English, French, Arabic, Turkish) open to full-time or freelance web development roles.
+💻 Freelance Software Developer specializing in Next.js, React, and Tailwind CSS.<br>
+🎓 Master of Computers and Information Technology graduate from Politehnica Bucharest.<br>
+🤖 Experienced in integrating AI features and utilizing Python, Scikit-learn, and Pandas for data analysis.<br>
+🌍 Multilingual professional (English, French, Arabic, Turkish) open to full-time or freelance web development roles.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hyasma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHARFI Asma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acharfi580@gmail.com) 
 
